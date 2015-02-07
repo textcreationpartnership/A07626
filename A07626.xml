@@ -144,12 +144,15 @@
                <bibl>1. PET. 2.7.</bibl>
                <p>Feare God: and honour the King.</p>
             </q>
-            <figure>
-               <p>Quadrivium SIONIS OR The foure Wayes TO SION</p>
-               <p>by John Monlas M<hi rend="sup">r</hi>. of Arts</p>
-               <p>
-                  <hi>LONDON</hi> Printed by <hi>Augustine Mathewes.</hi> 1633.</p>
-            </figure>
+            <p>
+               <pb facs="tcp:2452:1"/>
+               <figure>
+                  <p>Quadrivium SIONIS OR The foure Wayes TO SION</p>
+                  <p>by John Monlas M<hi rend="sup">r</hi>. of Arts</p>
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Augustine Mathewes.</hi> 1633.</p>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:2452:2"/>
